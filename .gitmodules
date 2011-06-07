@@ -1,0 +1,3 @@
+[submodule "doc"]
+	path = doc
+	url = git@gist.github.com:ac3bbc0943389d9129e2.git
